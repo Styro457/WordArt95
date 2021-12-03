@@ -1,0 +1,21 @@
+body {
+    margin: 10px;
+}
+
+.wide-text {
+    width: 100%;
+}
+
+.wordart-button {
+    height: 60px;
+}
+
+.wordart-button-image {
+    height: 60px;
+    width: auto;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
