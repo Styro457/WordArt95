@@ -129,3 +129,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.idea/WordArt97.iml
+.idea/modules.xml
+.idea/vcs.xml
